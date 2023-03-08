@@ -1,4 +1,3 @@
 #!/bin/bash
-mv /tmp/betty /tmp/my_first_derectory/betty
-
+mv /tmp/betty /tmp/my_first_derectory
 
